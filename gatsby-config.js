@@ -34,12 +34,12 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `YOUR_ANALYTICS_ID`,
-    //   },
-    // },
+    {
+       resolve: `gatsby-plugin-google-analytics`,
+       options: {
+         trackingId: `UA-181015020-6`,
+       },
+     },
     `gatsby-plugin-remove-trailing-slashes`,
     {
       resolve: `gatsby-plugin-canonical-urls`,
