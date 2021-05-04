@@ -8,6 +8,7 @@
   "starter-name": "gatsby-starter-rocket-docs",
   "dependencies": {
     "@rocketseat/gatsby-theme-docs": "^2.3.1",
+    "firebase-tools": "^9.10.0",
     "gatsby": "^3.0.4",
     "gatsby-plugin-canonical-urls": "^3.0.0",
     "gatsby-plugin-google-analytics": "^3.0.0",
@@ -30,5 +31,6 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
+    
   }
 }

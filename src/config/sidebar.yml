@@ -2,19 +2,23 @@
 
 - label: 'Introduction'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: How to use
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
+    - label: '宝箱を作ろう'
+      link: '/howtouse/create'
+    - label: '自分の宝箱を管理しよう'
+      link: '/howtouse/management'
+    - label: '宝箱を取得しよう'
+      link: '/howtouse/discover'
+    - label: '取得した宝箱を見てみよう'
+      link: '/howtouse/treasure'
 - label: More
   items:
-    - label: FAQ
-      link: /faq
+    - label: Privacy Policy
+      link: /privacy
     - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+      link: https://github.com/kiyohken2000/maptrap
+    - label: 'App Store'
+      link: https://apps.apple.com/jp/app/pine-pro/id1560540009
+    - label: 'Google Play'
+      link: https://play.google.com/store/apps/details?id=net.votepurchase.pine
