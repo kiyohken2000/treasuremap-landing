@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.app`,
-    siteAuthor: `@rocketseat`,
-    siteImage: `/banner.png`,
+    siteTitle: `Find Good One`,
+    defaultTitle: `Find Good One`,
+    siteTitleShort: `Find Good One`,
+    siteDescription: `Find Good One landing page`,
+    siteUrl: `https://findgoodone.ml`,
+    siteAuthor: `@votepurchase`,
+    siteImage: `/logo-lg.png`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
     basePath: `/`,
@@ -25,12 +25,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rocketseat Gatsby Themes`,
-        short_name: `RS Gatsby Themes`,
+        name: `Find Good One`,
+        short_name: `Find Good One`,
         start_url: `/`,
         background_color: `#ffffff`,
         display: `standalone`,
-        icon: `static/favicon.png`,
+        icon: `static/logo-lg.png`,
       },
     },
     `gatsby-plugin-sitemap`,
@@ -44,7 +44,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://rocketdocs.netlify.app`,
+        siteUrl: `https://findgoodone.ml`,
       },
     },
     `gatsby-plugin-offline`,

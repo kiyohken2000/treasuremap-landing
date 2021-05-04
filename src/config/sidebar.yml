@@ -16,6 +16,8 @@
   items:
     - label: Privacy Policy
       link: /privacy
+    - label: 'Twitter'
+      link: https://twitter.com/votepurchase
     - label: 'Github'
       link: https://github.com/kiyohken2000/maptrap
     - label: 'App Store'
