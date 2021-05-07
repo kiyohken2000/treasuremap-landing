@@ -14,7 +14,9 @@
       link: '/howtouse/treasure'
 - label: More
   items:
-    - label: Privacy Policy
+    - label: コミュニティ
+      link: /community
+    - label: 利用規約とプライバシー
       link: /privacy
     - label: 'Twitter'
       link: https://twitter.com/votepurchase
